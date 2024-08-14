@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "/grandline/static/css/main.f855e6bc.css",
-    "main.js": "/grandline/static/js/main.21884058.js",
-    "static/js/453.a04b8a9b.chunk.js": "/grandline/static/js/453.a04b8a9b.chunk.js",
-    "static/media/logo.svg": "/grandline/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
-    "index.html": "/grandline/index.html",
-    "main.f855e6bc.css.map": "/grandline/static/css/main.f855e6bc.css.map",
-    "main.21884058.js.map": "/grandline/static/js/main.21884058.js.map",
-    "453.a04b8a9b.chunk.js.map": "/grandline/static/js/453.a04b8a9b.chunk.js.map"
+    "main.css": "/grand.line/static/css/main.f855e6bc.css",
+    "main.js": "/grand.line/static/js/main.57ab7802.js",
+    "static/js/453.a04b8a9b.chunk.js": "/grand.line/static/js/453.a04b8a9b.chunk.js",
+    "static/media/logo.svg": "/grand.line/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/grand.line/index.html",
+    "main.f855e6bc.css.map": "/grand.line/static/css/main.f855e6bc.css.map",
+    "main.57ab7802.js.map": "/grand.line/static/js/main.57ab7802.js.map",
+    "453.a04b8a9b.chunk.js.map": "/grand.line/static/js/453.a04b8a9b.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.f855e6bc.css",
-    "static/js/main.21884058.js"
+    "static/js/main.57ab7802.js"
   ]
 }
